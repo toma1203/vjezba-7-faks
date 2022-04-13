@@ -1,0 +1,4 @@
+D:\vjezba 7\vjezba 7_5\obj\Debug\netcoreapp3.1\vjezba 7_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\vjezba 7\vjezba 7_5\obj\Debug\netcoreapp3.1\vjezba 7_5.AssemblyInfoInputs.cache
+D:\vjezba 7\vjezba 7_5\obj\Debug\netcoreapp3.1\vjezba 7_5.AssemblyInfo.cs
+D:\vjezba 7\vjezba 7_5\obj\Debug\netcoreapp3.1\vjezba 7_5.csproj.CoreCompileInputs.cache
